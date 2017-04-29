@@ -3,3 +3,5 @@ password_command = gpg --decrypt ~/.config/pianobar/password.gpg
 volume=-30
 audio_quality=high
 autostart_station=2529925944509198713
+
+# to encrypt password file "vim ~/.config/pianobar/password" enter password, save and exit, then "gpg -e password"
