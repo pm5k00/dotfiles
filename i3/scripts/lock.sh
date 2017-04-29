@@ -25,7 +25,7 @@ BLURTYPE="0x8" # very blurry but cpu intensive
 #BLURTYPE="0x2" # 4.39s
 #BLURTYPE="5x2" # 3.80s
 #BLURTYPE="2x8" # 2.90s
-#LURTYPE="2x3" # 2.92s
+#BLURTYPE="2x3" # 2.92s
 
 # Get the screenshot, add the blur and lock the screen with it
 $SCREENSHOT
