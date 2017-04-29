@@ -1,0 +1,5 @@
+user=pm5k00@gmail.com
+password_command = gpg --decrypt ~/.config/pianobar/password.gpg
+volume=-30
+audio_quality=high
+autostart_station=2529925944509198713
